@@ -1,7 +1,3 @@
-Here’s your **README.md** without backend usage:  
-
----
-
 # 📊 Stock Data Visualization Web App  
 
 ## 🚀 Overview  
@@ -64,7 +60,7 @@ This is a web application that displays a **list of companies** on the left side
 ---
 
 ## 🚀 Live Demo  
-🔗 **[View Online](https://your-github-username.github.io/stock-data-visualization/)**  
+🔗 **[View Online](https://affancoder.github.io/stock-data-visualization/)**  
 
 ---
 
@@ -84,8 +80,4 @@ This is a web application that displays a **list of companies** on the left side
 
 ---
 
-### 🔥 Developed by **[MD Affan Asghar](https://github.com/your-github-username)**  
-
----
-
-This README keeps it **simple & clear** with **only frontend technologies**. Let me know if you need any modifications! 🚀
+### 🔥 Developed by **[MD Affan Asghar](https://github.com/affancoder)**  
